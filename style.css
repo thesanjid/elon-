@@ -1,0 +1,78 @@
+        
+        #header ~ div {
+        background-color: rgba(152, 150, 150, 0.695);
+
+        
+        }
+
+        .info{
+        border: 2px solid black;
+        padding: 50px;
+        height: 500px;
+        background-color: rgb(57, 56, 53);
+        color: white;
+        overflow: scroll;
+        border-radius: 0 10px 10px 10px;
+        transition: all 500ms linear 1s;
+        box-shadow: 2px 2px 5px #a4a0a0;
+ 
+ }
+
+ #Musk h3, #Jeff h3{
+    text-shadow: 2px 2px 5px #c01919;
+ }
+
+ .info:hover{
+    background-color:rgba(57, 56, 53, .7);
+    border-radius: 0 20px 20px 20px;
+ }
+
+
+ .info:hover{
+    opacity: 0.4;
+ }
+        #carouselExampleSlidesOnly{
+            height:100%;
+            width: 100%;
+            padding: auto;
+            margin: auto;
+           background-color: rgb(39, 48, 39);
+           object-fit: contain;
+        }
+        img{
+            width: auto;
+            height: 200px;
+            
+        }
+    
+       
+        a:link{
+            color: red;
+        }
+        a:visited{
+            color: green;
+        }
+        a:hover{
+            color: black;
+        }
+        #Voting-form{
+            background-color: rgb(190, 227, 196);
+            padding: 50px;
+            margin: 40px;
+
+        }
+        button{
+            background-color: rgb(185, 185, 202);
+            text-align: center;
+            font: 1em sans-serif;
+            padding: 10px;
+            margin: auto;
+            text-decoration-color: aliceblue;
+            
+        }
+        #navbarSupportedContent{
+            padding: 50px;
+            margin: auto;
+            background-color: aliceblue;
+        }
+        
